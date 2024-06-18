@@ -1,4 +1,4 @@
-nginx
+
 #支持私库
 
 xhofe/alist:latest
